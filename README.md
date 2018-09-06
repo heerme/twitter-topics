@@ -19,10 +19,10 @@ http://ceur-ws.org/Vol-1150/
 
 Disclaimer
 ----------
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+These software distributions are open source, licensed under the GNU General Public License (v3 or later). 
+Note that this is the full GPL, which allows many free uses, but does not allow its incorporation 
+(even in part or in translation) into any type of proprietary software which you distribute. 
+Commercial licensing is also available; please contact us if you are interested.
  
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
